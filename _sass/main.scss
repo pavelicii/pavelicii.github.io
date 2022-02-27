@@ -313,13 +313,33 @@ a {
     }
   }
 
+  .telegram:hover {
+    .circle {
+      animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards,
+        colorTelegram 1s linear forwards;
+    }
+    .social-svg {
+      fill: #2aabee;
+    }
+  }
+
   .linkedin:hover {
     .circle {
       animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards,
-        colorLinkedin 1s linear forwards;
+        colorLinkedIn 1s linear forwards;
     }
     .social-svg {
-      fill: #007bb6;
+      fill: #0072b1;
+    }
+  }
+
+  .stackoverflow:hover {
+    .circle {
+      animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards,
+        colorStackOverflow 1s linear forwards;
+    }
+    .social-svg {
+      fill: #f47f24;
     }
   }
 
@@ -330,6 +350,26 @@ a {
     }
     .social-svg {
       fill: #1da1f2;
+    }
+  }
+
+  .instagram:hover {
+    .circle {
+      animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards,
+        colorInstagram 1s linear forwards;
+    }
+    .social-svg {
+      fill: #e1306c;
+    }
+  }
+
+  .facebook:hover {
+    .circle {
+      animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards,
+        colorFacebook 1s linear forwards;
+    }
+    .social-svg {
+      fill: #4267b2;
     }
   }
 
@@ -365,15 +405,39 @@ a {
     }
   }
 
-  @keyframes colorLinkedin {
+  @keyframes colorTelegram {
     to {
-      stroke: #007bb6;
+      stroke: #229ed9;
+    }
+  }
+
+  @keyframes colorLinkedIn {
+    to {
+      stroke: #005b8e;
+    }
+  }
+
+  @keyframes colorStackOverflow {
+    to {
+      stroke: #d96311;
     }
   }
 
   @keyframes colorTwitter {
     to {
       stroke: #1da1f2;
+    }
+  }
+
+  @keyframes colorFacebook {
+    to {
+      stroke: #2f477a;
+    }
+  }
+
+  @keyframes colorInstagram {
+    to {
+      stroke: #833ab4;
     }
   }
 }
@@ -635,6 +699,12 @@ a {
     }
   }
 
+  .telegram:hover {
+    .social-svg {
+      fill: #2aabee;
+    }
+  }
+
   .linkedin:hover {
     .social-svg {
       fill: #007bb6;
@@ -644,6 +714,24 @@ a {
   .twitter:hover {
     .social-svg {
       fill: #1da1f2;
+    }
+  }
+
+  .stackoverflow:hover {
+    .social-svg {
+      fill: #f47f24;
+    }
+  }
+
+  .instagram:hover {
+    .social-svg {
+      fill: #c13584;
+    }
+  }
+
+  .facebook:hover {
+    .social-svg {
+      fill: #4267b2;
     }
   }
 }

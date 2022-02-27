@@ -1,7 +1,7 @@
 {
   "particles": {
     "number": {
-      "value": 10,
+      "value": 50,
       "density": {
         "enable": true,
         "value_area": 800
@@ -11,13 +11,13 @@
       "value": ["#dc052d"]
     },
     "shape": {
-      "type": "polygon",
+      "type": "circle",
       "stroke": {
         "width": 0,
         "color": "#000000"
       },
       "polygon": {
-        "nb_sides": 4
+        "nb_sides": 5
       }
     },
     "opacity": {
@@ -66,7 +66,7 @@
       },
       "onclick": {
         "enable": true,
-        "mode": "repulse"
+        "mode": "push"
       },
       "resize": true
     },

@@ -1,33 +1,83 @@
-# > name: Name of your project
-# > descr: Description of your project
-# > demo: Link to your project
-# > tags: List of technologies you used in your projects
-#
-# Example of a project
-# - name: project X
-#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-#   demo: https://example.com/
-#   tags:
-#     - tag: MongoDB
-#     - tag: Express
-#     - tag: AngularJS
-#     - tag: Node
-
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: API to generate starter kit projects in different languages, including CI/CD and infrastructure settings
+  descr: >
+    <b>Main tasks:</b><br>
+    <ul>
+      <li>Development of the test framework from scratch</li>
+      <li>Automation of API tests using API-first approach</li>
+      <li>Implementation of load tests</li>
+    </ul>
+    <b>Key achievements</b>:<br>
+    <ul>
+      <li>Developed 300+ of autotests to test API and to run generated projects' build and pipeline</li>
+      <li>Integrated autotests with Allure to provide developers with fast and easy-to-read test feedback</li>
+      <li>Implemented CI/CD pipelines for different environments</li>
+    </ul>
+  propject-page: https://sibedge.com/en/cases/secure-and-private-internet-for-millions-of-users/
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Java
+    - tag: REST Assured
+    - tag: Gatling
+    - tag: Allure
+    - tag: GitLab CI/CD
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Set of Android applications of a large international VPN provider
+  descr: >
+    <b>Main tasks:</b><br>
+    <ul>
+      <li>Automation of E2E tests</li>
+      <li>Implementation of continuous testing in CI/CD</li>
+      <li>Configuration and maintenance of test execution in cloud-based app-testing infrastructure</li>
+    </ul>
+    <b>Key achievements</b>:<br>
+    <ul>
+      <li>Developed 600+ autotests across all apps which reduced regression testing efforts by 80%</li>
+      <li>Implemented common test codebase from scratch which allowed 4 junior QA engineers to join automation project</li>
+      <li>Integrated autotests with TestRail to consolidate test documentation with automation</li>
+      <li>Provided on-demand autotests execution</li>
+    </ul>
+  propject-page: https://sibedge.com/en/cases/secure-and-private-internet-for-millions-of-users/
+  tags:
+    - tag: Java
+    - tag: Android
+    - tag: TestRail
+    - tag: Jenkins
+
+- name: Command-line tool to execute test scripts by SSH on thousands of remote nodes
+  descr: >
+    <b>Main tasks:</b><br>
+    <ul>
+      <li>Development of a command-line tool for testing</li>
+      <li>Processing and visualization of test results</li>
+    </ul>
+    <b>Key achievements:</b><br>
+    <ul>
+      <li>Reduced single test execution time among all nodes from 30 to 2 minutes</li>
+      <li>Visualized test results to provide real-time monitoring</li>
+      <li>Developed a unified starting point for separate test scripts</li>
+    </ul>
   tags:
     - tag: Python
-    - tag: Django
+    - tag: Paramiko
+    - tag: Grafana
+    - tag: Prometheus
+    - tag: CircleCI
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Enterprise workflow management system for an oil and gas company
+  descr: >
+    <b>Main tasks:</b><br>
+    <ul>
+      <li>Manual testing</li>
+      <li>Test documentation writing</li>
+      <li>SQL queries writing</li>
+    </ul>
+    <b>Key achievements:</b><br>
+    <ul>
+      <li>Implemented multiple SQL queries and stored procedures for both development and testing needs</li>
+      <li>Automated 50+ Windows and Web smoke UI tests to reduce acceptance testing time</li>
+    </ul>
+  tags:
+    - tag: MS SQL
+    - tag: TestRail
+    - tag: Selenium
+    - tag: Selenide
+    - tag: pywinauto

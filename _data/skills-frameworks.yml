@@ -1,33 +1,32 @@
-# > name: Name of your framework
-# > weight: Describes how good you know the framework - values from 1 up to 5
-#
-# Example of a framework
-# - name: Framework
-#   weight: 5
-
-- name: Angular
+- name: REST-Assured
   weight: 5
 
-- name: AngularJS
-  weight: 3
+- name: Allure
+  weight: 5
 
-- name: React
+- name: JUnit
+  weight: 5
+
+- name: AssertJ
   weight: 4
 
-- name: Node
-  weight: 1
+- name: Espresso
+  weight: 4
 
-- name: Flutter
-  weight: 2
+- name: UIAutomator
+  weight: 4
 
-- name: Express
+- name: Selenium
+  weight: 4
+
+- name: Selenide
+  weight: 4
+
+- name: Gatling
   weight: 3
 
-- name: Django
-  weight: 1
-
-- name: Spring
+- name: Selenoid
   weight: 2
 
-- name: Rails
-  weight: 4
+- name: pywinauto
+  weight: 2
