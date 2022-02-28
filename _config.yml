@@ -59,6 +59,8 @@ projects:
   exclude:
     archived: true
     forks: true
+    projects:
+      - pavelicii
 
 google-analytics:
   id: "G-J9PTNXNH26"
