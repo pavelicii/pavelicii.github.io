@@ -25,8 +25,8 @@ about_me_description: >
   infrastructure from scratch, combining E2E and load tests, CI/CD and TMS integration, cloud-based test execution, 
   test coverage calculation, and test reports visualization.
   <br><br>
-  With Java being my main language, I also had multiple side-tasks which required the use of Python, Groovy, Kotlin, 
-  Scala, Bash, and C#. It was always a new enjoyable experience for me hence I'm constantly willing to learn new 
+  With Java being my main language, I also had multiple side-tasks which required the use of Python, TypeScript, Groovy, 
+  Kotlin, Scala, Bash, and C#. It was always a new enjoyable experience for me hence I'm constantly willing to learn new 
   technologies and practices. 
   <br><br>
   I'm a regular visitor to the professional IT conferences since I intend to be on the same page with the current trends 
@@ -61,9 +61,6 @@ projects:
     forks: true
     projects:
       - pavelicii
-
-google-analytics:
-  id: "G-J9PTNXNH26"
 
 plugins:
   - "jekyll-github-metadata"

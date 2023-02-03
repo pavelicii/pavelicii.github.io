@@ -1,6 +1,9 @@
 - name: Java
   weight: 5
 
+- name: TypeScript
+  weight: 4
+
 - name: Python
   weight: 4
 

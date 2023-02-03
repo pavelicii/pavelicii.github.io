@@ -1,6 +1,9 @@
 - name: REST-Assured
   weight: 5
 
+- name: Playwright
+  weight: 5
+
 - name: Allure
   weight: 5
 

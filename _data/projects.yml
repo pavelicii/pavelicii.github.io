@@ -1,21 +1,22 @@
-- name: API to generate starter kit projects in different languages, including CI/CD and infrastructure settings
+- name: Web-app and API to generate starter kit projects in different languages, including CI/CD and infrastructure settings
   descr: >
     <b>Main tasks:</b><br>
     <ul>
       <li>Development of the test framework from scratch</li>
-      <li>Automation of API tests using API-first approach</li>
+      <li>Automation of API tests using API-first approach and Web tests using Playwright framework</li>
       <li>Implementation of load tests</li>
     </ul>
     <b>Key achievements</b>:<br>
     <ul>
-      <li>Developed 300+ of autotests to test API and to run generated projects' build and pipeline</li>
+      <li>Developed API autotests to test API and to run generated projects' build and pipeline</li>
       <li>Integrated autotests with Allure to provide developers with fast and easy-to-read test feedback</li>
       <li>Implemented CI/CD pipelines for different environments</li>
     </ul>
-  propject-page: https://sibedge.com/en/cases/secure-and-private-internet-for-millions-of-users/
   tags:
     - tag: Java
+    - tag: TypeScript
     - tag: REST Assured
+    - tag: Playwright
     - tag: Gatling
     - tag: Allure
     - tag: GitLab CI/CD
@@ -30,12 +31,12 @@
     </ul>
     <b>Key achievements</b>:<br>
     <ul>
-      <li>Developed 600+ autotests across all apps which reduced regression testing efforts by 80%</li>
+      <li>Developed mobile autotests across all apps which reduced regression testing efforts by 80%</li>
       <li>Implemented common test codebase from scratch which allowed 4 junior QA engineers to join automation project</li>
       <li>Integrated autotests with TestRail to consolidate test documentation with automation</li>
       <li>Provided on-demand autotests execution</li>
     </ul>
-  propject-page: https://sibedge.com/en/cases/secure-and-private-internet-for-millions-of-users/
+  project-page: https://sibedge.com/en/cases/secure-and-private-internet-for-millions-of-users/
   tags:
     - tag: Java
     - tag: Android
@@ -73,7 +74,7 @@
     <b>Key achievements:</b><br>
     <ul>
       <li>Implemented multiple SQL queries and stored procedures for both development and testing needs</li>
-      <li>Automated 50+ Windows and Web smoke UI tests to reduce acceptance testing time</li>
+      <li>Automated Windows and Web smoke UI tests to reduce acceptance testing time</li>
     </ul>
   tags:
     - tag: MS SQL
