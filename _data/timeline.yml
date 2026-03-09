@@ -1,28 +1,35 @@
 - title: Deutsche Telekom
   title-url: https://www.telekom.com/en
   date: Sep 2020 - Present
-  subtitle: QA Automation Engineer / SDET
+  subtitle: QA Automation Engineer | SDET
   tags:
     - tag: Java
-    - tag: REST-API
+    - tag: Kotlin
+    - tag: TypeScript
     - tag: REST-Assured
+    - tag: Selenium
+    - tag: Selenide
+    - tag: Playwright
     - tag: OpenAPI
     - tag: Allure
     - tag: Gatling
     - tag: GitLab CI/CD
     - tag: SQL
+    - tag: WireMock
+    - tag: Grafana
+    - tag: Kibana
   timeline-side: left
 
 - title: Sibedge
   title-url: https://sibedge.com/en/
   date: Sep 2017 - Aug 2020
-  subtitle: QA Automation Engineer / SDET
+  subtitle: QA Automation Engineer | SDET
   tags:
     - tag: Java
     - tag: Python
     - tag: Android
     - tag: Espresso
-    - tag: UIAutomator
+    - tag: Android UI Automator
     - tag: Selenium
     - tag: SQL
     - tag: Circle CI

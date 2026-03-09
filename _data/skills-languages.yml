@@ -4,14 +4,14 @@
 - name: TypeScript
   weight: 4
 
+- name: Kotlin
+  weight: 4
+
 - name: Python
   weight: 4
 
 - name: C#
   weight: 3
-
-- name: Kotlin
-  weight: 2
 
 - name: Scala
   weight: 2

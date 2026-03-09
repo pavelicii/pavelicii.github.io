@@ -1,40 +1,37 @@
-title: Pavelicii
+title: Pavel Nazimok
 description: Pavel Nazimok Personal Website
 baseurl: ""
 
 username: Pavel Nazimok
-typing_text: QA Engineer / SDET
+typing_text: QA Engineer | SDET
 
 email: pavelnazimok@gmail.com
-telegram_username: pavelicii
-linkedin_username: pavelicii
+linkedin_username: pavel-nazimok
 github_username: pavelicii
 stackoverflow_userid: 8356662
-twitter_username: pavelicii
-instagram_username: pavelicii
-facebook_username: pavelicii
 
 show_aboutme_card: true
 about_me_title: About Me
-about_me_description: > 
-  QA Automation Engineer with the commitment to deliver superior software by implementing effective quality control 
-  procedures and continuous testing process in the development lifecycle.
+about_me_description: >
+  QA Automation Engineer | SDET with 8+ years of experience in software testing.
   <br><br>
-  Throughout the 5 years of experience in API, Web, Mobile, Load, and Desktop testing I've been doing a lot of 
-  activities starting from manual regression checks and ending with the implementation of a test automation 
-  infrastructure from scratch, combining E2E and load tests, CI/CD and TMS integration, cloud-based test execution, 
-  test coverage calculation, and test reports visualization.
+  My work has included API, Web, Mobile, Load, and Desktop testing. During this time I have been involved in different 
+  stages of the testing process, from manual regression testing to implementing test automation infrastructure from scratch.
   <br><br>
-  With Java being my main language, I also had multiple side-tasks which required the use of Python, TypeScript, Groovy, 
-  Kotlin, Scala, Bash, and C#. It was always a new enjoyable experience for me hence I'm constantly willing to learn new 
-  technologies and practices. 
+  I have worked on tasks such as:
+  <ul>
+    <li>Creating and maintaining automated E2E tests</li>
+    <li>Building test automation frameworks</li>
+    <li>Integrating tests with CI/CD pipelines with shift-left testing in mind</li>
+    <li>Integrating test management systems</li>
+    <li>Running tests in cloud environments</li>
+    <li>Calculating test coverage and visualizing test reports</li>
+  </ul>
+  
+  In recent years, Java has been my primary language. I have also worked with Kotlin, TypeScript, Python, Groovy, Scala, 
+  Bash, and C# when specific tasks required it. I enjoy learning new technologies and applying them where they are useful.
   <br><br>
-  I'm a regular visitor to the professional IT conferences since I intend to be on the same page with the current trends 
-  in testing and development. I also try to give back what I can to the QA community. For example, I've developed and 
-  opensourced <a class="highlight-link" href="https://github.com/pavelicii/allpairs4j" target="_blank" rel="noreferrer">
-  AllPairs4J</a>  — a Java library for pairwise test data generation. You can find it on my <a class="highlight-link" 
-  href="https://github.com/pavelicii" target="_blank" rel="noreferrer">GitHub profile</a>, along with other coding 
-  examples.
+  Feel free to check my GitHub profile for a several coding examples and and an open-source pet project.
 
 show_skills_card: true
 skills_title: Skills

@@ -16,6 +16,9 @@
 - name: Postman
   weight: 4
 
+- name: Insomnia
+  weight: 4
+
 - name: Swagger
   weight: 4
 
@@ -31,6 +34,12 @@
 - name: Grafana
   weight: 3
 
+- name: Kibana
+  weight: 3
+
+- name: Prometheus
+  weight: 3
+
 - name: ChromeDevTools
   weight: 3
 
@@ -44,4 +53,7 @@
   weight: 2
 
 - name: Docker
+  weight: 2
+
+- name: WireMock
   weight: 2
